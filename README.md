@@ -13,7 +13,7 @@ To get started with heroes-SPA, follow these steps:
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/cipher01100001/journal.git
+    git clone https://github.com/cipher01100001/heroes-SPA.git
 2. Navigate to the project directory:
     ```bash
     cd heroes-SPA
