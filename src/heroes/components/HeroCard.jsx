@@ -9,7 +9,7 @@ const CharactersByHero = ({ characters, alter_ego }) => {
 
 export const HeroCard = ({ id, superhero, publisher, alter_ego, first_appearance, characters }) => {
 
-  const heroImageUrl = `../../../assets/heroes/${id}.jpg`;
+  const heroImageUrl = `/assets/heroes/${id}.jpg`;
 
   return (
     <div className="cols">
