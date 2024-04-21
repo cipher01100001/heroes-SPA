@@ -25,9 +25,16 @@ To get started with heroes-SPA, follow these steps:
     yarn dev
 5. Open your browser and visit localhost generated to view the application.
 
+## 🧪 Running Tests
+
+- To run tests, use the command:
+    ```bash
+    yarn test
 ## 🛠️ Technologies Used
 
-- React.js ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
+- React.js ![React.js](https://img.shields.io/badge/-React.js-087ea4?logo=react&logoColor=white)
 - React Router ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white)
+- Testing Library ![Testing Lubrary](https://img.shields.io/badge/-Testing%20Library-%23E33332?&logo=testing-library&logoColor=white)
+- Jest ![Jest](https://img.shields.io/badge/-Jest-99425b?&logo=jest&logoColor=white)
 - HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 - CSS ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
