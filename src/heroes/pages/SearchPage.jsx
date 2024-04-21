@@ -40,7 +40,7 @@ export const SearchPage = () => {
           <h4>Searching</h4>
           <hr />
 
-          <form onSubmit={hadleSubmit}>
+          <form onSubmit={hadleSubmit} aria-label="form">
             <input
               type="text"
               placeholder="Search a hero"
